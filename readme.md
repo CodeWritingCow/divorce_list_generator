@@ -3,7 +3,7 @@ _By Gary Pang, "CodeWritingCow"_
 
 
 ## What It Does
-This Python program produces a txt file of new divorce decrees for newspaper publication. I'm a reporter, and I wrote this program back in 2014 to make my job easier.
+This Python program produces a txt file of new divorce decrees for newspaper publication. I was a reporter, and I wrote this program back in 2014 to make my job easier.
 
 
 ## How It Works
